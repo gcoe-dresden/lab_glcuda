@@ -27,3 +27,7 @@ optirun ./lab03
 - lab04: animated heightfield using CUDA
 - lab05: animated colored heightfield using CUDA and texture
 
+# Screenshot
+
+![lab03](img/screenshot1.jpg)
+![lab05-surface](img/screenshot2.jpg)

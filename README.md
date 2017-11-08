@@ -6,7 +6,7 @@ These code examples show how to use OpenGL/GLSL/GLFW/CUDA within a cmake project
 # Usage
 Clone the repository including the submodules glm and glfw.
 ```
-git clone --recursive https://github.com/tdd11235813/lab_glcuda.git
+git clone --recursive https://github.com/gcoe-dresden/lab_glcuda.git
 ```
 Then run cmake+make from your build directory:
 ```
